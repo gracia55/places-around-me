@@ -190,6 +190,11 @@ In 1988, Bijli took over the running of the cinema hall, which was revamped in
 
 ## Output:
 ![image](https://github.com/gracia55/places-around-me/assets/129026838/7769c192-32da-4935-a192-436b4b0d7e62)
+![image](https://github.com/gracia55/places-around-me/assets/129026838/a88b69b3-9a20-4726-9879-a7bd866fbdfc)
+![image](https://github.com/gracia55/places-around-me/assets/129026838/d227ed5b-9d38-4fcb-b456-aa357916d4ae)
+![image](https://github.com/gracia55/places-around-me/assets/129026838/cfb87781-fe69-48e4-a2b7-407504a6fe1d)
+![image](https://github.com/gracia55/places-around-me/assets/129026838/89ff816e-6b9b-4fe3-a8b7-ccd4f1cc1eaa)
+![image](https://github.com/gracia55/places-around-me/assets/129026838/59b52d12-7c95-4f26-9c23-f5779295d22e)
 
 ## Result:
-Write your result
+The program for implementing image map is executing successfully.
